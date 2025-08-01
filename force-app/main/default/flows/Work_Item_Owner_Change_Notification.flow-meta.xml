@@ -58,7 +58,7 @@
             <targetReference>Get_Custom_Notification_Record_ID</targetReference>
         </connector>
     </assignments>
-    <description>Bell notification for the work item owner change TEST</description>
+    <description>Bell notification for the work item owner change</description>
     <environments>Default</environments>
     <formulas>
         <name>NotificationBody</name>
