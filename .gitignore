@@ -1,0 +1,8 @@
+# Local Salesforce CLI junk
+.sfdx/
+sf-project.json
+# OS & editor artifacts
+.DS_Store
+.idea/
+.vscode/
+/.sf/
